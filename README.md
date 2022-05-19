@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunshine-shadow2
-- 👀 I’m interested in game
+- 👀 I’m interested in game programming
 - 🌱 I’m currently learning JAVA ES
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1662188240@QQ.com
